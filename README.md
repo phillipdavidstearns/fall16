@@ -25,7 +25,7 @@ Teacher: Taeyoon Choi
 ##Electronics 
 Teacher: Phil Stearns
 
-Class repository 
+[Class repository](https://github.com/phillipdavidstearns/SFPC_fall_2016)
 
 ##Physical computing
 Caitlin Morris
